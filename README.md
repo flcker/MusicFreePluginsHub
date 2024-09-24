@@ -8,13 +8,13 @@
 
 这个聚合的插件接口比较多，一个订阅就够用，记得删除原有订阅和插件以免冲突。
 
-国内用户：
+~~国内用户：~~
 
-https://musicfreepluginshub.2020818.xyz/plugins.json
+~~https://musicfreepluginshub.2020818.xyz/plugins.json~~
 
-国际用户：
+~~国际用户：~~
 
-https://musicfreepluginshub.pages.dev/plugins.json
+~~https://musicfreepluginshub.pages.dev/plugins.json~~
 
 注：
 

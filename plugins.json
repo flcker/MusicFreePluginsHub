@@ -21,19 +21,24 @@
       "version": "0.0.2"
     },
     {
-      "name": "Navidrome",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/navidrome\/index.js",
+      "name": "suno",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
       "version": "0.0.0"
     },
     {
-      "name": "suno",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
+      "name": "歌词千寻",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciqianxun\/index.js",
       "version": "0.0.0"
     },
     {
       "name": "猫耳FM",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/maoerfm\/index.js",
       "version": "0.1.4"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/webdav\/index.js",
+      "version": "0.0.2"
     },
     {
       "name": "udio",
